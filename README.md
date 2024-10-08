@@ -1,4 +1,5 @@
-# 코딩테스트
+# 프로그래머스 코딩테스트
+https://school.programmers.co.kr/learn/challenges?order=recent&levels=0&languages=javascript
 
 ## 입문 단계
 
