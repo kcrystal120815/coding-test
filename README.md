@@ -11,6 +11,8 @@ https://school.programmers.co.kr/learn/challenges?order=recent&levels=0&language
 - <a href="./a-beginning/06-division-of-two-numbers.js">두 수의 나눗셈</a>
 - <a href="./a-beginning/07-protractor.js">각도기</a>
 - <a href="./a-beginning/08-sum-of-even-numbers.js">짝수의 합</a>
+- <a href="./a-beginning/09-sum-of-two-numbers.js">두 수의 합</a>
+- <a href="./a-beginning/10-comparing-numbers.js">숫자 비교하기</a>
 
 ## 기초 단계
 - 
