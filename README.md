@@ -15,6 +15,7 @@ https://school.programmers.co.kr/learn/challenges?order=recent&levels=0&language
 - <a href="./a-beginning/09-sum-of-two-numbers.js">두 수의 합</a>
 - <a href="./a-beginning/10-comparing-numbers.js">숫자 비교하기</a>
 - <a href="./a-beginning/11-average-of-array.js">배열의 평균값</a>
+- <a href="./a-beginning/12-number-of-duplicate-numbers.js">중복된 숫자 개수</a>
 
 ## 기초 단계
 
